@@ -5,7 +5,7 @@
 - **[View Prototype](https://www.figma.com/proto/Ux2Y9Eixyi20uzKEcFcPwt/WNH-UWS?type=design&node-id=142-2560&t=loum3tz7lRKLCX6J-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)**
 
 **Participants:**  
-Violetta Filipenko - presentation (University of Siedlce, Faculty of Humanities, Polish Philology, 2nd Year, 4th Semester) </br>
+Violetta Filipenko - presentation + information gathering (University of Siedlce, Faculty of Humanities, Polish Philology, 2nd Year, 4th Semester) </br>
 Miraslau Alkhovik - application design (Lodz University of Technology, 4th-semester, Faculty of Electronics, Electrical Engineering, and Computer Science, Computer Science).
 
 ---
