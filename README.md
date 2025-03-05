@@ -5,6 +5,7 @@ Violetta Filipenko - presentation (University of Siedlce, Faculty of Humanities,
 Miraslau Alkhovik - application design (Lodz University of Technology, 4th-semester, Faculty of Electronics, Electrical Engineering, and Computer Science, Computer Science).
 
 ---
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Ux2Y9Eixyi20uzKEcFcPwt/WNH-UWS?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
 ## Project Overview
 
