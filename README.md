@@ -1,7 +1,7 @@
 # INTERSTUDENT UWS 2024 – "WNH UWS" Campaign
 
 **Participant:**  
-Violetta Filipenko - presentation (University of Siedlce, Faculty of Humanities, Polish Philology, 2nd Year, 4th Semester)
+Violetta Filipenko - presentation (University of Siedlce, Faculty of Humanities, Polish Philology, 2nd Year, 4th Semester) </br>
 Miraslau Alkhovik - application design (Lodz University of Technology, 4th-semester, Faculty of Electronics, Electrical Engineering, and Computer Science, Computer Science).
 
 ---
